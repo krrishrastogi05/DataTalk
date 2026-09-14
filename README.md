@@ -1,6 +1,6 @@
-# DataTalk — NatWest Code for Purpose Hackathon 2026
+# DataTalk
 
-**Multi-Agent Conversational AI for Financial Data Analysis | Talk to Data**
+**Multi-Agent Conversational AI for Financial Data Analysis**
 
 DataTalk enables any user to ask questions about their data in plain English and receive clear, verifiable answers in seconds — with regulatory compliance built into every step. No SQL, no dashboards, no data team required. Upload a dataset, ask a question, and get an answer backed by a source reference, a confidence score, a chart where applicable, and automatic validation against RBI, PMLA, and DPDP Act regulations.
 
